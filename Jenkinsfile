@@ -1,3 +1,3 @@
-@Library('shared_lib@master') _
+@Library('shared_lib@testing') _
 
 ciPipeline()
